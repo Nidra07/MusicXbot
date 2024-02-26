@@ -20,7 +20,7 @@
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔💥;⚡+𝐍𝐎+𝐇𝐄𝐑𝐎𝐊𝐔+𝐁𝐀𝐍+𝐁𝐀𝐁𝐘+𝐅𝐔𝐋𝐋+𝐒𝐀𝐅𝐄+𝐑𝐄𝐏𝐎+📍+𝐑𝐄𝐏𝐎+𝐄𝐃𝐈𝐓+𝐒𝐀𝐑𝐊𝐀𝐑+𝐎𝐏𝐏+🎭">
 <p align="center">
-  <img src="https:https://telegra.ph/file/591c9428e1cc3c534346d.jpg">
+  <img src="https:https://te.legra.ph/file/52792e7acc085c69eeb14.jpg">
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥+𝐌𝐘+𝐁𝐎𝐓+➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/op_best_besties_bot)**
 
