@@ -22,7 +22,7 @@
 <p align="center">
   <img src="https:https://telegra.ph/file/591c9428e1cc3c534346d.jpg">
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥+𝐌𝐘+𝐁𝐎𝐓+➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/ll_rajan_pandit_music_bot_)**
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥+𝐌𝐘+𝐁𝐎𝐓+➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/op_best_besties_bot)**
 
 
 
