@@ -1,31 +1,14 @@
-━━━━━━━━━━━━━━━━
-### 🌷𝐀𝐋𝐎𝐍𝐄 𝐗 𝐌𝐔𝐒𝐈𝐂🌷
+<h1 align="center"><b>[⚡] 𝐇𝐀𝐂𝐊𝐄𝐑 𝐗 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 [⚡]</b></h1>
 
-<!--
-**_l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/_ll_SARKAR_BABE_ll/count.svg" />
-</p>
+<p align="center"><a href="https://t.me/legend_of_all_groups"><img src="https://te.legra.ph/file/d106519f324f3309b23eb.jpg" width="400"></a></p>
 
 
+> ⭐️ Thanks to everyone for using this op 𝐇𝐀𝐂𝐊𝐄𝐑 𝐗 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓. That is the greatest pleasure we have !
 
 
-<h2 align="center">
-    ─「 𝐀𝐋𝐎𝐍𝐄 𝐗 𝐌𝐔𝐒𝐈𝐂 」─
-
-★ 𝐇𝐄𝐑𝐎𝐊𝐔 + 𝐃𝐄𝐏𝐋𝐎𝐘 ★
-</h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔💥;⚡+𝐍𝐎+𝐇𝐄𝐑𝐎𝐊𝐔+𝐁𝐀𝐍+𝐁𝐀𝐁𝐘+𝐅𝐔𝐋𝐋+𝐒𝐀𝐅𝐄+𝐑𝐄𝐏𝐎+📍+𝐑𝐄𝐏𝐎+𝐄𝐃𝐈𝐓+𝐀𝐋𝐎𝐍𝐄 𝐗 𝐌𝐔𝐒𝐈𝐂+𝐎𝐏𝐏+🎭">
-<p align="center">
-  <img src="https:https://te.legra.ph/file/52792e7acc085c69eeb14.jpg">
-</p>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=💥+𝐌𝐘+𝐁𝐎𝐓+➣ [❛-𝐑α∂нα᭄ [🚩] Ɽoboʈ 🎸](https://t.me/op_best_besties_bot)**
-
-
-
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🔥𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬🔥">
 
 
@@ -36,3 +19,22 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/HackerXNetwork/HACKER-X-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
+
+
+<details>
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Music728/HACKER_X_SPAMBOT)
+
+</details>
+
+
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<br>
+
+<a href="https://t.me/O_P_Hacker"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+</details>
+
