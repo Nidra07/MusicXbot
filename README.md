@@ -1,11 +1,11 @@
-<h1 align="center"><b>[⚡] 𝐇𝐀𝐂𝐊𝐄𝐑 𝐗 𝐌𝐔𝐒𝐈𝐂 [⚡]</b></h1>
+<h1 align="center"><b>[⚡] ˹𝚁𝚒𝚜𝚑𝚒˼ ✘ ˹𝙼𝚞𝚜𝚒𝚌˼ [⚡]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐇𝐀𝐂𝐊𝐄𝐑 𝐗 𝐌𝐔𝐒𝐈𝐂</h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 ˹𝚁𝚒𝚜𝚑𝚒˼ ✘ ˹𝙼𝚞𝚜𝚒𝚌˼</h4>
 
-<p align="center"><a href="https://t.me/legend_of_all_groups"><img src="https://te.legra.ph/file/52792e7acc085c69eeb14.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/legend_of_all_groups"><img src="https://te.legra.ph/file/a7bf168ee0cd9058d9b8a.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op 𝐇𝐀𝐂𝐊𝐄𝐑 𝐗 𝐌𝐔𝐒𝐈𝐂. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op ˹𝚁𝚒𝚜𝚑𝚒˼ ✘ ˹𝙼𝚞𝚜𝚒𝚌˼. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
