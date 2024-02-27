@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/O_P_Hacker")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Princes_log_support_group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+fYnFx6nHK4phZjY9")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/rishixmusicsupport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -78,10 +78,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/52792e7acc085c69eeb14.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/a7bf168ee0cd9058d9b8a.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/52792e7acc085c69eeb14.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/a7bf168ee0cd9058d9b8a.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/52792e7acc085c69eeb14.jpg"
@@ -112,12 +112,12 @@ if SUPPORT_CHANNEL:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://te.legra.ph/file/52792e7acc085c69eeb14.jpg"
+            PING_IMG_URL = "https://te.legra.ph/file/a7bf168ee0cd9058d9b8a.jpg"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/52792e7acc085c69eeb14.jpg"
+            START_IMG_URL = "https://te.legra.ph/file/a7bf168ee0cd9058d9b8a.jpg"
             
 if SUPPORT_CHAT:
     if not re.match("(?:http|https)://", SUPPORT_CHAT):
