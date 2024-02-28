@@ -51,13 +51,13 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("O_P_Hacker")
+                await self.one.join_chat("x_x0Rishi")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOGGER_ID, "Assistant Started :**\n\n✨ ɪᴅ : @Legend_of_all_groups \n❄ ɴᴀᴍᴇ : Hacker Music\n💫 ᴜsᴇʀɴᴀᴍᴇ : @O_P_Hacker")
+                await self.one.send_message(config.LOGGER_ID, "Assistant Started :**\n\n✨ ɪᴅ : @x_x0Rishi \n❄ ɴᴀᴍᴇ : Rishi Music\n💫 ᴜsᴇʀɴᴀᴍᴇ : @x_x0Rishi")
             except:
                 LOGGER(__name__).error(
                     "Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin!"
@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("O_P_Hacker")
+                await self.two.join_chat("x_x0Rishi")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("O_P_Hacker")
+                await self.three.join_chat("x_x0Rishi")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
@@ -114,7 +114,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("O_P_Hacker")
+                await self.four.join_chat("x_x0Rishi")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
@@ -135,7 +135,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("O_P_Hacker")
+                await self.five.join_chat("x_x0Rishi")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
