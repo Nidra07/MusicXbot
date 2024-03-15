@@ -57,7 +57,7 @@ class Userbot(Client):
                 pass
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOGGER_ID, "Assistant Started :**\n\n✨ ɪᴅ : @legend_of_all_groups \n❄ ɴᴀᴍᴇ : Rishi Music\n💫 ᴜsᴇʀɴᴀᴍᴇ : @x_x0Rishi")
+                await self.one.send_message(config.LOGGER_ID, "Assistant Started :**\n\n✨ ɪᴅ : @earning_model \n❄ ɴᴀᴍᴇ : Rishi Music\n💫 ᴜsᴇʀɴᴀᴍᴇ : @Rudra_ni07")
             except:
                 LOGGER(__name__).error(
                     "Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin!"
@@ -72,7 +72,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("x_x0Rishi")
+                await self.two.join_chat("Rudra_ni07")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
@@ -93,7 +93,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("x_x0Rishi")
+                await self.three.join_chat("Rudra_ni07")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
@@ -114,7 +114,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("x_x0Rishi")
+                await self.four.join_chat("Rudra_ni07")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
@@ -135,7 +135,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("x_x0Rishi")
+                await self.five.join_chat("Rudra_ni07")
                 await self.one.join_chat("Hacker_fed")
             except:
                 pass
